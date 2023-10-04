@@ -1,5 +1,5 @@
 # Pet-projects2023
-+ Filmoteka [filmoteka project](https://github.com/makstyt/pet_projects2023/tree/filmoteka_project)
++ Filmoteka [переглянути проект](https://github.com/makstyt/pet_projects2023/tree/filmoteka_project)
 + Команда, продукт, розробка [project01](https://github.com/makstyt/pet_projects2023/tree/project01)
 + Тестова документація [project02](https://github.com/makstyt/pet_projects2023/tree/project02)
 + Життєвий цикл розробки ПЗ. Рівні тестування [project03](https://github.com/makstyt/pet_projects2023/tree/project03)
