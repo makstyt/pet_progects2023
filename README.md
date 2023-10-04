@@ -1,3 +1,16 @@
 # Pet-projects2023
-1. ##Filmoteka
-2. 
++ Filmoteka [filmoteka project](https://github.com/makstyt/pet_projects2023/tree/filmoteka_project)
++ Команда, продукт, розробка [project01](https://github.com/makstyt/pet_projects2023/tree/project01)
++ Тестова документація [project02](https://github.com/makstyt/pet_projects2023/tree/project02)
++ Життєвий цикл розробки ПЗ. Рівні тестування [project03](https://github.com/makstyt/pet_projects2023/tree/project03)
++ Типи тестування [project04](https://github.com/makstyt/pet_projects2023/tree/project04)
++ Статичне тестування [project05](https://github.com/makstyt/pet_projects2023/tree/project05)
++ Black box техніки тест дизайну [project06](https://github.com/makstyt/pet_projects2023/tree/project06)
++ White box and experienced based техніки тест дизайну [project07](https://github.com/makstyt/pet_projects2023/tree/project07)
++ Інструменти тестування (Jira, Qase) [project08](https://github.com/makstyt/pet_projects2023/tree/project08)
++ Web технології. Клієнт-серверна архітектура [project09](https://github.com/makstyt/pet_projects2023/tree/project09)
++ Web технології. Front-end. Back-end. [project10](https://github.com/makstyt/pet_projects2023/tree/project10)
++ Сучасна архітектура застосунків. (Postman REST API) [project11](https://github.com/makstyt/pet_projects2023/tree/project11)
++ Робота з базою даних SQL [project12](https://github.com/makstyt/pet_projects2023/tree/project12)
++ Командний рядок. CI/CD. Git [project13](https://github.com/makstyt/pet_projects2023/tree/project13)
++ Mobile testing [project14](https://github.com/makstyt/pet_projects2023/tree/project14)
