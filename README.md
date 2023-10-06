@@ -7,3 +7,5 @@
 + Написати [Test Cases](https://github.com/makstyt/pet_projects2023/blob/project04/Test%20Case%20Rozetka_regression%20-%20TestRail.pdf) для регресійного тестування з [поясненням](https://github.com/makstyt/pet_projects2023/blob/project04/Explanation%20of%20test%20cases%20Rozetka.pdf) чому саме ці секції ви обрали для тестування
 + Протестуйте веб-застосунок використовуючи написані тест-кейси
 + Оформити [Bug Reports](https://github.com/makstyt/pet_projects2023/blob/project04/Bug%20Report%20Rozetka%20regression.pdf) на знайдені баги 
+
+[перехід до опису проектів](https://github.com/makstyt/pet_projects2023)
