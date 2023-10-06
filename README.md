@@ -7,4 +7,4 @@
 + Чи зіткнулись з якимись проблемами?
 + Чим плануєте займатись сьогодні?
 
-  [перейти до опису проектів](https://github.com/makstyt/pet_projects2023/blob/main/README.md)
+  [перейти до опису проектів](https://github.com/makstyt/pet_projects2023)
