@@ -1,5 +1,5 @@
 # Project11 (Сучасна архітектура застосунків Postman REST API)
-1. Відкрити документацію з АПІ Трелло
+1. Відкрити документацію з [Trello REST API](https://developer.atlassian.com/cloud/trello/rest/api-group-actions#api-group-actions)
 + Зареєструватись і авторизуватись на ресурсі
 + Отримати API-ключ розробника та токен
 + Створити одну тестову дошку через API i Postman
