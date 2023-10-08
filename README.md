@@ -6,7 +6,7 @@
 + Типи тестування [переглянути проект](https://github.com/makstyt/pet_projects2023/tree/project04)
 + Статичне тестування [переглянути проект](https://github.com/makstyt/pet_projects2023/tree/project05)
 + Black box техніки тест дизайну [переглянути проект](https://github.com/makstyt/pet_projects2023/tree/project06)
-+ White-box and experienced based техніки тест дизайну [переглянути проект](https://github.com/makstyt/pet_projects2023/tree/project07)
++ White-box техніки тест дизайну [переглянути проект](https://github.com/makstyt/pet_projects2023/tree/project07)
 + Інструменти тестування (Jira, Qase) [переглянути проект](https://github.com/makstyt/pet_projects2023/tree/project08)
 + Web технології. Клієнт-серверна архітектура [переглянути проект](https://github.com/makstyt/pet_projects2023/tree/project09)
 + Web технології. Front-end. Back-end. [переглянути проект](https://github.com/makstyt/pet_projects2023/tree/project10)
